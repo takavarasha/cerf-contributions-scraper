@@ -1,0 +1,7 @@
+.hdxkey
+.idea
+raw.json
+errors.log
+__pycache__
+db.sql
+config
